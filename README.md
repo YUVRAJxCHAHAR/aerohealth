@@ -1,2 +1,1 @@
-# aerohealth
-Your personalised air quality website
+# aerohealth.github.io
